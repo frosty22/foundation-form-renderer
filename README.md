@@ -7,3 +7,4 @@ Pokud používáte framework **Foundation 5**, můžete využít tento renderer 
 
 1. Instalace závislostí pomocí composeru `frosty22/foundation-form-renderer`
 2. Předání rendereru do formuláře `$form->setRenderer(new \FoundationFormRenderer\Renderer());`
+3. Změna defaultního JS skriptu `nette.js` za upravený `nette.foundation.js`
