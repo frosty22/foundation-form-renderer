@@ -21,7 +21,7 @@
 	"extra": {
 		"component" : {
 			"src" : "src/",
-			"scripts" : [ "nette.foundation.js" ]
+			"scripts" : [ "js/nette.foundation.js" ]
 		}
 	}
 }
