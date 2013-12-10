@@ -17,5 +17,11 @@
 		"psr-0": {
 			"FoundationFormRenderer" : "src/"
 		}
+	},
+	"extra": {
+		"component" : {
+			"src" : "src/",
+			"scripts" : [ "nette.foundation.js" ]
+		}
 	}
 }
